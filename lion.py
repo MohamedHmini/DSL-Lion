@@ -2,6 +2,9 @@ import readline
 import textx as tx
 import templateEngine as te
 from textx.model import get_children
+import os
+
+os.chdir('..')
 
 
 def tree_generator(node, prefix = '-'):

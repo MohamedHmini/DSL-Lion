@@ -1,0 +1,3 @@
+[console_scripts]
+lion = lion.__main__:main
+
