@@ -22,5 +22,5 @@ Example of the language can be found in the /testModels folder
 
 ### Authors : 
 
-Mohamed Hmini
+Mohamed Hmini \
 Achraf Bougadre
