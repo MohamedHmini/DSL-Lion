@@ -19,3 +19,8 @@ $ ./lion.py
 ### Examples of the syntax :
 
 Example of the language can be found in the /testModels folder
+
+### Authors : 
+
+Mohamed Hmini
+Achraf Bougadre
